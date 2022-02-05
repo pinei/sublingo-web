@@ -1,24 +1,4 @@
 # sublingo-web
 
-## Project setup
-```
-npm install
-```
+Aplicação em Vue.js para leitura de legendas multi-idioma (subtitles) de forma sincronizada e lúdica visando aprendizado.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

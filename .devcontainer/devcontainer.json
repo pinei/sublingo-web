@@ -1,0 +1,11 @@
+{
+    "name": "Node.js sublingo",
+    "dockerFile": "Dockerfile",
+
+    "settings": {
+      "terminal.integrated.shell.linux": "/bin/bash"
+    },
+
+    "postCreateCommand": "git clone https://github.com/pinei/sublingo-web.git . && npm install",
+    "workspaceFolder": "/workspace"
+}
